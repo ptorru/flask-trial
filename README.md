@@ -11,6 +11,8 @@ Use python to run the `run.py`script, passing as arguments your key and the numb
 python run.py <your-api-key> 2
 ```
 
+The page will be available at: `http://localhost:5055`
+
 ## Talking through the code
 In this function we build the data we will use to puplate the Jinja template with:
 
